@@ -6,13 +6,13 @@ El siguiente documento permite acceder rápidamente a los temas que se abordará
 
 1. [Concepto de red](redes_conceptos_generales.md#1-concepto-de-red)
 2. [Dispositivos de red](redes_conceptos_generales.md#2-dispositivos-de-red)
-3. [Tipos de redes según alcance geográfico](redes_conceptos_generales.md#3-tipos-de-redes)
-4. [Internet](redes_conceptos_generales.md#3-tipos-de-redes)
-5. [Medios de transmisión](redes_conceptos_generales.md#4-medios-de-transmisión)
-6. [Interfaces de red (NIC)](redes_conceptos_generales.md#6-interfaces-de-red-nic)
+3. [Tipos de redes según alcance geográfico](redes_conceptos_generales.md#3-tipos-de-redes-según-su-alcance-geográfico)
+4. [Internet](redes_conceptos_generales.md#4-internet)
+5. [Medios de transmisión](redes_conceptos_generales.md#5-medios-de-transmisión)
+6. [Interfaces de red (*NIC*)](redes_conceptos_generales.md#6-interfaces-de-red-nic)
 7. [Concepto de topología](redes_conceptos_generales.md#7-concepto-de-topología)
 8. [Terminología de rendimiento](redes_conceptos_generales.md#8-terminología-de-rendimiento)
-9. [Modalidades de comunicación](redes_conceptos_generales.md#9-tipos-de-comunicación)
+9. [Modalidades de comunicación](redes_conceptos_generales.md#9-modalidades-de-comunicación)
 10. [Señalización y codificación de la información](redes_conceptos_generales.md#10-señalización-y-codificación-de-la-información)
 11. [Arquitectura cliente-servidor](redes_conceptos_generales.md#11-arquitectura-cliente-servidor)
 

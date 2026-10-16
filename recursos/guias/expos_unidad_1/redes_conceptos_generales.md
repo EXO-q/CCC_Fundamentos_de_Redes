@@ -157,7 +157,7 @@ Compara las tres modalidades mediante un esquema con dos dispositivos y flechas 
 
 Presenta un ejemplo de transmisión mediante Ethernet o Wi-Fi y explica cómo la información se representa y se transporta desde el dispositivo emisor hasta el receptor considerando los conceptos presentados.
 
-# 11. Arquitectura cliente – servidor
+# 11. Arquitectura cliente–servidor
 
 ## Concepto y funciones
 

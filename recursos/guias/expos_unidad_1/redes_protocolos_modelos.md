@@ -56,7 +56,7 @@ Concluye diferenciando a las organizaciones que desarrollan estándares técnico
 - Define _overhead_ como la información adicional necesaria para gestionar la comunicación, que ocupa recursos de transmisión sin formar parte de los datos útiles de la aplicación. Incluye un ejemplo.
 - Introduce el concepto de *Protocol Data Unit (PDU)* y ejemplifícalo.
 
-# Modelo OSI
+# 16. Modelo OSI
 
 - Explica qué es el modelo OSI y cuál es su propósito como modelo de referencia.
 - Presenta sus siete capas en orden, desde la capa física hasta la de aplicación, indicando para cada una:
@@ -66,7 +66,7 @@ Concluye diferenciando a las organizaciones que desarrollan estándares técnico
 - Explica cómo se distribuyen las responsabilidades entre las capas y cómo cada una proporciona servicios a la capa superior.
 - Utiliza un esquema vertical para representar las siete capas y facilitar su memorización. Evita profundizar en protocolos específicos.
 
-# Modelo TCP/IP
+# 17. Modelo TCP/IP
 
 - Define qué es el modelo TCP/IP y explica su relación con la arquitectura de protocolos utilizada en Internet.
 - Presenta sus cuatro capas e indica para cada una:
@@ -75,7 +75,7 @@ Concluye diferenciando a las organizaciones que desarrollan estándares técnico
 	- un ejemplo de protocolo relacionado
 - Representa el modelo mediante un esquema vertical y explica cómo colaboran sus capas para permitir que una aplicación intercambie información con otra a través de una red.
 
-# Relación entre modelos y protocolos
+# 18. Relación entre modelos y protocolos
 
 - Explica la diferencia entre un modelo de referencia, como OSI, y una arquitectura de protocolos, como TCP/IP.
 - Relaciona las capas de ambos modelos mediante un esquema comparativo. Explica que la correspondencia es aproximada y que no existe una equivalencia exacta entre todas las capas.
@@ -83,7 +83,7 @@ Concluye diferenciando a las organizaciones que desarrollan estándares técnico
 - Utiliza ese ejemplo para mostrar cómo colaboran los protocolos y cómo el encapsulamiento permite que cada capa añada la información necesaria.
 - Responde por qué se utiliza TCP/IP para las redes informáticas y no el modelo OSI.
 
-# Tipos de encapsulamiento
+# 19. Tipos de encapsulamiento
 
 - Explica cómo cambia la denominación de la unidad de datos a medida que atraviesa las capas de los modelos de red.
 - Describe las siguientes unidades e indica a qué capa del modelo TCP/IP se asocian cada una de ellas:

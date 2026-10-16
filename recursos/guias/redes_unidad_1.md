@@ -14,18 +14,18 @@
 8. Terminología de rendimiento: *bandwidth*, *throughput* y latencia
 9. Modalidades de comunicación: *simplex*, *half-duplex* y *full-duplex*
 10. Señalización y codificación de la información
-11. Arquitectura cliente – servidor
+11. Arquitectura cliente–servidor
 
 ## Protocolos y modelos
 
 12. Concepto de protocolo: definición y propósito
 13. Características de los protocolos: formato del mensaje, reglas de intercambio, sincronización, direccionamiento, detección de errores, control de flujo y seguridad
-14. Encapsulamiento: definición, partes (cabecera, *payload*, tráiler), *overhead* y *Protocol Data Unit (PDU)*
-15. Estandarización: *ISO*, *ITU*, *IEEE*, *IETF*, *ICANN* e *IANA*
+14. Estandarización de redes: *ISO*, *ITU*, *IEEE*, *IETF*, *ICANN* e *IANA*
+15. Encapsulamiento: definición, partes (cabecera, *payload*, tráiler), *overhead* y *Protocol Data Unit (PDU)*
 16. Modelo *OSI*
 17. Modelo *TCP/IP*
-18. Tipos de encapsulamiento: tramas, paquetes, segmentos y datos
-19. Relación entre los modelos y los protocolos
+18. Relación entre modelos y protocolos
+19. Tipos de encapsulamiento: tramas, paquetes, segmentos y datos
 
 # Metodología de aprendizaje
 
